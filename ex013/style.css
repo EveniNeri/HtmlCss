@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.topico{
+    
+display: inline-block;
+flex-direction:column;
+padding: 10px;
+
+}
+.topico2{
+
+    display: inline-block;
+    flex-direction:column;
+    padding: 10px;
+    }
+
+    .topico2 h1 {
+       color:rgb(241,1,129)
+    }
+    .topico h1 {
+        color:rgb(241,1,129)
+     }
+.topico img {
+    width: 290px;
+    float: left;
+    padding-right: inherit;
+}
+.topico2 img {
+    width: 300px;
+    float: left;
+    padding-right: inherit;
+}
+body{
+    background-color: rgb(240, 219, 234);
+}
+
+.sub{
+    
+     background-color: rgb(229, 194, 211);
+}
+
+.sub h2{
+    color:rgb(241 1 129);
+}
